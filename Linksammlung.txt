@@ -15,3 +15,4 @@ https://ledoux.itch.io/bitsy
 http://caseyrule.com/projects/sounds-of-sorting/
 https://docs.freitagsrunde.org/Klausuren/
 http://ls11-www.cs.tu-dortmund.de/people/rahmann/teaching/ss2008/EleganteAlgorithmen/skript.pdf
+https://www.math.uni-bielefeld.de/~mmoll/data/polar.pdf
