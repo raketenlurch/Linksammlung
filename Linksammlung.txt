@@ -18,3 +18,4 @@ http://ls11-www.cs.tu-dortmund.de/people/rahmann/teaching/ss2008/EleganteAlgorit
 https://www.math.uni-bielefeld.de/~mmoll/data/polar.pdf
 https://q.tools
 https://www.utf8-zeichentabelle.de/unicode-utf8-table.pl
+http://cgvr.informatik.uni-bremen.de/teaching/info2_10/index.html
