@@ -20,3 +20,4 @@ https://q.tools
 https://www.utf8-zeichentabelle.de/unicode-utf8-table.pl
 http://cgvr.informatik.uni-bremen.de/teaching/info2_10/index.html
 http://docplayer.org/28381066-27-selbstanordnende-lineare-listen.html
+https://pyformat.info/
