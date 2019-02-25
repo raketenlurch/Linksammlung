@@ -34,3 +34,4 @@ https://www.janko.at/Raetsel/Wolkenkratzer/index.htm
 https://stackabuse.com/tag/python/
 http://zetcode.com/db/sqlitepythontutorial/
 https://www.random.org/
+http://global-mind.org/
