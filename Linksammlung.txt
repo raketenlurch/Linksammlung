@@ -33,3 +33,4 @@ https://bindingofisaacrebirth.gamepedia.com/Modding_Tools#Official_Modding_Tools
 https://www.janko.at/Raetsel/Wolkenkratzer/index.htm
 https://stackabuse.com/tag/python/
 http://zetcode.com/db/sqlitepythontutorial/
+https://www.random.org/
