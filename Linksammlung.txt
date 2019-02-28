@@ -35,3 +35,4 @@ https://stackabuse.com/tag/python/
 http://zetcode.com/db/sqlitepythontutorial/
 https://www.random.org/
 http://global-mind.org/
+https://www.rsaconference.com/writable/presentations/file_upload/hta-w05-tracking_hackers_on_your_network_with_sysinternals_sysmon.pdf
