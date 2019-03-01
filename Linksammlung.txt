@@ -39,3 +39,4 @@ https://www.rsaconference.com/writable/presentations/file_upload/hta-w05-trackin
 https://medium.com/palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f
 https://blogs.technet.microsoft.com/jepayne/2017/12/08/weffles/
 https://medium.com/@olafhartong/endpoint-detection-superpowers-on-the-cheap-part-1-e9c28201ac47
+https://medium.com/ctf-writeups
