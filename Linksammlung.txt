@@ -36,3 +36,5 @@ http://zetcode.com/db/sqlitepythontutorial/
 https://www.random.org/
 http://global-mind.org/
 https://www.rsaconference.com/writable/presentations/file_upload/hta-w05-tracking_hackers_on_your_network_with_sysinternals_sysmon.pdf
+https://medium.com/palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f
+https://blogs.technet.microsoft.com/jepayne/2017/12/08/weffles/
