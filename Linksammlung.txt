@@ -41,3 +41,5 @@ https://blogs.technet.microsoft.com/jepayne/2017/12/08/weffles/
 https://medium.com/@olafhartong/endpoint-detection-superpowers-on-the-cheap-part-1-e9c28201ac47
 https://medium.com/ctf-writeups
 https://attack.mitre.org/
+https://www.data2type.de/xml-xslt-xslfo/regulaere-ausdruecke/
+https://www.regular-expressions.info/quickstart.html
