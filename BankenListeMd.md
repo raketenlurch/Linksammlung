@@ -923,46 +923,44 @@
 
 * ohne BAG Hamm und TeamBank
 
+## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
+- 878 Raiffeisenbank Frankenwinheim und Umgebung eG Frankenwinheim 62.998 49.890 10.422 21.629
+- 879 Raiffeisenbank Hofkirchen-Bayerbach eG Hofkirchen 62.127 51.423 17.700 35.371
+- 880 Raiffeisenbank Berghülen eG Berghülen 61.328 47.802 23.593 29.633
+- 881 Volksbank Heimbach eG Heimbach 59.466 49.720 17.803 26.749
+- 882 Raiffeisenbank Aitrang-Ruderatshofen eG Aitrang 59.293 43.675 11.254 43.276
+- 883 Raiffeisenbank Altschweier eG, Bühl Bühl 58.226 40.801 10.974 38.776
+- 884 Raiffeisenbank Ottenbach eG Ottenbach 56.514 44.470 24.006 35.876
+- 885 Raiffeisenbank eG Seestermühe Seestermühe 56.001 42.972 18.962 47.792
+- 886 Berkheimer Bank eG, Esslingen Esslingen 55.587 45.520 22.868 22.482
+- 887 Volksbank Ulrichstein eG Ulrichstein 55.537 45.993 19.452 39.283
+- 888 Raiffeisenbank Heroldsbach eG Heroldsbach 54.348 41.888 15.019 35.428
+- 889 Volksbank Feldatal eG Feldatal 54.101 27.349 9.414 20.505
+- 890 Raiffeisenbank Wald-Görisried eG Wald 53.566 43.690 16.052 30.688
+- 891 Raiffeisenbank Bidingen eG Bidingen 51.361 34.168 17.724 41.315
+- 892 Raiffeisenbank Wiesedermeer-Wiesede-Marcardsmoor eG Wiesedermeer 50.640 35.586 13.928 30.013
+- 893 Raiffeisenbank eG Unterwesterwald Arzbach 48.602 40.114 16.512 30.852
+- 894 Raiffeisenbank Erlenmoos eG Erlenmoos 48.236 40.673 24.697 19.488
+- 895 Volksbank Wewelsburg-Ahden eG Büren 47.890 37.019 13.591 32.768
+- 896 Raiffeisenbank eG, Owschlag Owschlag 47.352 37.337 17.284 27.577
+- 897 Rosbacher Raiffeisenbank eG Windeck 47.031 37.122 16.419 22.464
+- 898 Volksbank Wulfsen eG Wulfsen 46.805 35.737 15.002 25.477
+- 899 Raiffeisenbank Gruibingen eG Gruibingen 46.771 33.140 19.834 25.645
+- 900 Volksbank Brandoberndorf eG Waldsolms 46.400 36.383 17.440 25.458
+- 901 Raiffeisenbank Wallgau-Krün e.G. Wallgau 45.718 40.880 22.941 28.724
+- 902 Raiffeisenbank Wüstenselbitz eG Helmbrechts OT Wüstenselbitz 44.632 37.572 24.084 26.322
+- 903 Raiffeisenbank Raisting eG Raisting 44.259 34.606 14.173 21.029
+- 904 Spar- und Kreditbank Dauchingen eG Dauchingen 39.973 28.577 11.643 27.398
+- 905 Raiffeisenbank Vordersteinenberg eG, Alfdorf Alfdorf 37.317 31.958 8.468 22.599
+- 906 Raiffeisenbank eG, Niederwallmenach Niederwallmenach 36.652 31.173 18.704 18.082
+- 907 Raiffeisenbank Tüngental eG, Schwäbisch Hall Schwäbisch Hall 35.484 32.225 8.289 22.047
+- 908 Raiffeisenbank Gammesfeld eG, Blaufelden Blaufelden 32.718 30.889 25.898 10.894
+- 909 Hüttenberger Bank eG Hüttenberg 31.668 25.268 6.217 21.072
+- 910 Raiffeisenbank Bruck eG Bruck i.d.OPf 30.510 24.246 5.466 15.733
+- 911 Raiffeisenbank Maitis eG, Göppingen Göppingen 23.965 20.408 13.605 15.326
+- 912 Spar- und Darlehnskasse Stockhausen eG Herbstein 21.393 17.657 8.860 6.712
+- 913 Raiffeisenbank eG, Struvenhütten Struvenhütten 18.978 17.333 2.357 8.437
 
-```
-Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
-878 Raiffeisenbank Frankenwinheim und Umgebung eG Frankenwinheim 62.998 49.890 10.422 21.629
-879 Raiffeisenbank Hofkirchen-Bayerbach eG Hofkirchen 62.127 51.423 17.700 35.371
-880 Raiffeisenbank Berghülen eG Berghülen 61.328 47.802 23.593 29.633
-881 Volksbank Heimbach eG Heimbach 59.466 49.720 17.803 26.749
-882 Raiffeisenbank Aitrang-Ruderatshofen eG Aitrang 59.293 43.675 11.254 43.276
-883 Raiffeisenbank Altschweier eG, Bühl Bühl 58.226 40.801 10.974 38.776
-884 Raiffeisenbank Ottenbach eG Ottenbach 56.514 44.470 24.006 35.876
-885 Raiffeisenbank eG Seestermühe Seestermühe 56.001 42.972 18.962 47.792
-886 Berkheimer Bank eG, Esslingen Esslingen 55.587 45.520 22.868 22.482
-887 Volksbank Ulrichstein eG Ulrichstein 55.537 45.993 19.452 39.283
-888 Raiffeisenbank Heroldsbach eG Heroldsbach 54.348 41.888 15.019 35.428
-889 Volksbank Feldatal eG Feldatal 54.101 27.349 9.414 20.505
-890 Raiffeisenbank Wald-Görisried eG Wald 53.566 43.690 16.052 30.688
-891 Raiffeisenbank Bidingen eG Bidingen 51.361 34.168 17.724 41.315
-892 Raiffeisenbank Wiesedermeer-Wiesede-Marcardsmoor eG Wiesedermeer 50.640 35.586 13.928 30.013
-893 Raiffeisenbank eG Unterwesterwald Arzbach 48.602 40.114 16.512 30.852
-894 Raiffeisenbank Erlenmoos eG Erlenmoos 48.236 40.673 24.697 19.488
-895 Volksbank Wewelsburg-Ahden eG Büren 47.890 37.019 13.591 32.768
-896 Raiffeisenbank eG, Owschlag Owschlag 47.352 37.337 17.284 27.577
-897 Rosbacher Raiffeisenbank eG Windeck 47.031 37.122 16.419 22.464
-898 Volksbank Wulfsen eG Wulfsen 46.805 35.737 15.002 25.477
-899 Raiffeisenbank Gruibingen eG Gruibingen 46.771 33.140 19.834 25.645
-900 Volksbank Brandoberndorf eG Waldsolms 46.400 36.383 17.440 25.458
-901 Raiffeisenbank Wallgau-Krün e.G. Wallgau 45.718 40.880 22.941 28.724
-902 Raiffeisenbank Wüstenselbitz eG Helmbrechts OT Wüstenselbitz 44.632 37.572 24.084 26.322
-903 Raiffeisenbank Raisting eG Raisting 44.259 34.606 14.173 21.029
-904 Spar- und Kreditbank Dauchingen eG Dauchingen 39.973 28.577 11.643 27.398
-905 Raiffeisenbank Vordersteinenberg eG, Alfdorf Alfdorf 37.317 31.958 8.468 22.599
-906 Raiffeisenbank eG, Niederwallmenach Niederwallmenach 36.652 31.173 18.704 18.082
-907 Raiffeisenbank Tüngental eG, Schwäbisch Hall Schwäbisch Hall 35.484 32.225 8.289 22.047
-908 Raiffeisenbank Gammesfeld eG, Blaufelden Blaufelden 32.718 30.889 25.898 10.894
-909 Hüttenberger Bank eG Hüttenberg 31.668 25.268 6.217 21.072
-910 Raiffeisenbank Bruck eG Bruck i.d.OPf 30.510 24.246 5.466 15.733
-911 Raiffeisenbank Maitis eG, Göppingen Göppingen 23.965 20.408 13.605 15.326
-912 Spar- und Darlehnskasse Stockhausen eG Herbstein 21.393 17.657 8.860 6.712
-913 Raiffeisenbank eG, Struvenhütten Struvenhütten 18.978 17.333 2.357 8.437
-```
 * ohne BAG Hamm und TeamBank
 
 
