@@ -36,6 +36,7 @@ http://zetcode.com/db/sqlitepythontutorial/
 https://www.random.org/
 http://global-mind.org/
 https://www.rsaconference.com/writable/presentations/file_upload/hta-w05-tracking_hackers_on_your_network_with_sysinternals_sysmon.pdf
+http://cewing.github.io/training.python_web/html/presentations/venv_intro.html
 https://medium.com/palantir/windows-event-forwarding-for-network-defense-cb208d5ff86f
 https://blogs.technet.microsoft.com/jepayne/2017/12/08/weffles/
 https://medium.com/@olafhartong/endpoint-detection-superpowers-on-the-cheap-part-1-e9c28201ac47
@@ -45,3 +46,5 @@ https://www.data2type.de/xml-xslt-xslfo/regulaere-ausdruecke/
 https://www.regular-expressions.info/quickstart.html
 https://app.workbenchdata.com/account/login/?next=/workflows/
 http://www.java67.com/
+ftp://ftp.bsh.de/
+https://pythonbuch.com/
