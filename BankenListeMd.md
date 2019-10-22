@@ -1,3 +1,4 @@
+# Alle Volksbanken und Raiffeisenbanken per Ende 2017*
 ## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 1 Deutsche Apotheker- und Ärztebank eG Düsseldorf 41.570.930 25.989.080 90.891 32.234.
 - 2 Berliner Volksbank eG Berlin 13.550.668 11.505.811 806.207 9.231.
@@ -37,8 +38,6 @@
 - 36 PSD Bank Rhein-Ruhr eG Düsseldorf 3.670.119 2.554.049 1.349.638 3.019.
 - 37 Volksbank Alzey-Worms eG Worms 3.606.255 2.777.774 578.996 2.643.
 - 38 Volksbank eG Braunschweig Wolfsburg Braunschweig 3.480.786 2.555.285 393.490 2.510. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 39 VR meine Raiffeisenbank eG, Altötting Altötting 3.457.540 2.724.316 876.659 2.437.
 - 40 Volksbank Kur- und Rheinpfalz eG Speyer 3.359.082 2.422.182 129.161 2.550.
 - 41 Volksbank Oberberg eG Wiehl 3.317.880 2.090.706 579.327 2.664.
@@ -79,8 +78,6 @@
 - 76 Volksbank eG, Hildesheim Hildesheim 2.340.040 1.838.911 656.362 1.189.
 - 77 Volksbank Göppingen eG Göppingen 2.338.658 1.900.205 801.849 1.134.
 - 78 Volksbank im Bergischen Land eG Remscheid 2.269.121 1.608.672 302.882 1.358. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 79 Volksbank Herrenberg-Nagold-Rottenburg eG Nagold 2.237.883 1.602.938 347.241 1.709.
 - 80 Volksbank Allgäu-Oberschwaben eG, Leutkirch im Allgäu Leutkirch im Allgäu 2.226.510 1.593.626 619.279 1.585.
 - 81 Volksbank Baden-Baden Rastatt eG Baden-Baden 2.196.315 1.475.839 178.424 1.219.
@@ -121,8 +118,6 @@
 - 116 Volksbank Krefeld eG Krefeld 1.817.598 1.416.962 209.291 1.142.
 - 117 Volksbank Backnang eG Backnang 1.773.553 1.292.304 288.676 1.311.
 - 118 Raiffeisen-Volksbank eG, Aurich Aurich 1.759.218 1.126.841 471.383 1.185. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 119 VR-Bank Neu-Ulm eG Neu-Ulm 1.753.574 1.347.606 457.733 1.342.
 - 120 VR Bank Kaufbeuren-Ostallgäu eG Marktoberdorf 1.746.890 1.282.525 330.964 1.150.
 - 121 VR-Bank Ostalb eG, Aalen Aalen 1.745.743 1.280.206 292.439 1.138.
@@ -163,8 +158,6 @@
 - 156 Volksbank Sauerland eG Arnsberg 1.495.345 1.023.019 317.667 1.008.
 - 157 Augusta-Bank eG Raiffeisen-Volksbank, Augsburg Augsburg 1.494.930 1.277.056 494.747 800.
 - 158 Emsländische Volksbank eG Meppen/Ems 1.487.934 915.476 254.857 1.055. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 159 Vereinte Volksbank eG Dorsten 1.485.341 1.050.110 358.361 820.
 - 160 Volksbank eG, Überlingen Überlingen 1.484.304 1.099.844 374.843 1.044.
 - 161 Volksbank Dreieich eG Langen 1.476.205 1.191.320 134.563 1.240.
@@ -205,8 +198,6 @@
 - 196 Volks- und Raiffeisenbank eG Wismar 1.258.228 998.064 279.983 736.
 - 197 VR-Bank Feuchtwangen-Dinkelsbühl eG Dinkelsbühl 1.253.224 898.125 369.229 724.
 - 198 Volksbank Dreiländereck eG, Lörrach Lörrach 1.250.871 959.711 254.261 766. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 199 Volksbank Hunsrück-Nahe eG Simmern 1.250.404 971.125 318.772 580.
 - 200 VR Bank Oberfranken Mitte eG, Kulmbach Kulmbach 1.249.776 1.014.145 339.271 452.
 - 201 Volksbank Bocholt eG Bocholt 1.240.288 828.674 281.004 948.
@@ -247,8 +238,6 @@
 - 236 Volksbank Straubing eG Straubing 1.092.651 808.881 254.559 682.
 - 237 Volksbank Bad Saulgau eG Bad Saulgau 1.089.446 826.291 302.588 652.
 - 238 PSD Bank Westfalen-Lippe eG Münster 1.080.936 711.908 216.373 562. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 239 Volksbank Lingen eG Lingen 1.074.035 705.518 235.990 753.
 - 240 Volksbank Raiffeisenbank Rhön-Grabfeld eG, Bad Neustadt Bad Neustadt a. d. Saale 1.062.026 815.580 302.348 422.
 - 241 Volksbank Rhein-Lippe eG Wesel 1.057.686 692.344 253.979 804.
@@ -329,8 +318,6 @@
 - 316 Volksbank Dortmund-Nordwest eG Dortmund 770.470 388.612 95.997 459.
 - 317 Volksbank-Raiffeisenbank Amberg eG Amberg 769.665 622.014 195.515 348.
 - 318 Volksbank Osnabrück eG Osnabrück 767.172 572.339 138.977 541. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 319 Volks- und Raiffeisenbank Prignitz eG Perleberg 764.639 572.942 155.913 481.
 - 320 VR Bank Westthüringen eG Mühlhausen/Thür. 763.244 587.713 212.272 235.
 - 321 VR-Bank Südwestpfalz eG Pirmasens - Zweibrücken Pirmasens 758.709 627.957 185.728 448.
@@ -371,8 +358,6 @@
 - 356 Volksbank-Raiffeisenbank im Kreis Rendsburg eG Osterrönfeld 675.067 475.347 188.522 338.
 - 357 VR-Bank Altenburger Land eG Schmölln 673.319 530.660 115.601 246.
 - 358 VR Bank Rhein-Mosel eG Ochtendung 670.884 490.254 115.762 245. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 359 Volksbank Olpe-Wenden-Drolshagen eG Olpe 663.011 465.188 235.052 472.
 - 360 PSD Bank Koblenz eG Koblenz 659.601 508.324 254.230 515.
 - 361 Dithmarscher Volks- und Raiffeisenbank eG Heide 653.706 410.771 158.300 392.
@@ -413,8 +398,6 @@
 - 396 Raiffeisenbank Erding eG Erding 555.334 435.852 166.891 385.
 - 397 Raiffeisenbank Isar-Loisachtal eG, Wolfratshausen Wolfratshausen, Landkreis Bad Tölz-Wolfr 554.756 424.362 160.599 403.
 - 398 Raiffeisenbank Altdorf-Ergolding eG Ergolding 554.687 461.364 173.640 267. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 399 Volksbank Sprockhövel eG Sprockhövel 553.969 431.446 114.815 400.
 - 400 Brandenburger Bank Volksbank-Raiffeisenbank eG Brandenburg 552.788 425.759 145.996 316.
 - 401 Raiffeisenbank Bad Gögging eG Neustadt a.d.Donau 545.959 446.218 104.929 372.
@@ -455,8 +438,6 @@
 - 436 Volksbank Nottuln eG Nottuln 478.521 334.529 153.663 329.
 - 437 Raiffeisenbank Hemau-Kallmünz eG Hemau 475.884 386.432 129.840 200.
 - 438 Volksbank Heuchelheim eG Heuchelheim 474.287 385.274 96.730 249. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 439 VR-Bank eG, Schopfheim Schopfheim 473.933 342.874 121.562 394.
 - 440 Volks- und Raiffeisenbank Muldental eG Grimma 473.178 373.092 48.398 215.
 - 441 Volksbank Vogtland eG Plauen 472.621 395.449 88.415 259.
@@ -497,8 +478,6 @@
 - 476 VR Bank Oldenburg Land West eG Hatten 413.663 249.605 79.941 280.
 - 477 Volksbank Raiffeisenbank Niederschlesien eG Görlitz 412.350 351.340 131.299 177.
 - 478 Volksbank Bremen-Nord eG Bremen 412.219 306.035 151.409 248. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 479 Raiffeisenbank Heilsbronn-Windsbach eG Windsbach 410.110 293.332 115.041 207.
 - 480 Raiffeisenbank Bobingen eG Bobingen 408.566 336.771 111.879 162.
 - 481 Raiffeisenbank Burgebrach - Stegaurach eG Burgebrach 406.587 325.034 102.663 246.
@@ -539,8 +518,6 @@
 - 516 VR-Bank Hunsrück-Mosel eG Morbach 367.886 290.867 83.503 182.
 - 517 Schrobenhausener Bank eG Schrobenhausen 367.492 287.683 100.387 246.
 - 518 Raiffeisenbank eG, Simmerath Simmerath 365.983 213.054 83.848 294. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 519 Raiffeisenbank eG, Großenlüder Großenlüder 363.325 269.230 93.288 175.
 - 520 Raiffeisenbank RSA eG, Rechtmehring Rechtmehring 362.461 247.632 52.501 321.
 - 521 Volksbank Welzheim eG Welzheim 359.970 302.687 156.140 256.
@@ -581,8 +558,6 @@
 - 556 Raiffeisenbank Aschberg eG Holzheim 318.264 245.608 94.086 161.
 - 557 Raiffeisenbank Schrozberg-Rot am See eG Schrozberg 318.177 230.077 63.956 129.
 - 558 Volksbank Selm-Bork eG Selm 318.174 232.173 90.238 171. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 559 Raiffeisenbank Pfaffenhausen eG Pfaffenhausen 316.587 250.635 86.687 171.
 - 560 Raiffeisenbank Ostprignitz-Ruppin eG Neuruppin 315.421 256.580 101.726 84.
 - 561 Raiffeisenbank Aresing-Gerolsbach eG Gerolsbach 309.547 237.321 96.306 209.
@@ -623,8 +598,6 @@
 - 596 Raiffeisenbank eG, Gundelfingen Gundelfingen 274.538 214.730 55.352 201.
 - 597 Volksbank Düren eG Düren 273.435 233.200 88.140 124.
 - 598 Raiffeisenbank Thannhausen eG Thannhausen 273.319 187.398 41.787 143. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 599 Volksbank Reiste-Eslohe eG Eslohe 273.188 185.701 63.936 157.
 - 600 Raiffeisenbank Greding-Thalmässing eG Greding 272.710 219.815 71.068 133.
 - 601 Volksbank Heiden eG Heiden 272.579 128.090 59.937 164.
@@ -665,8 +638,6 @@
 - 636 Raiffeisenbank Zeller Land eG Briedel 240.645 195.974 69.673 126.
 - 637 Volksbank Sandhofen eG, Mannheim Mannheim 237.887 195.863 76.532 160.
 - 638 Volksbank Daaden eG Daaden 237.639 175.668 58.217 144. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 639 Raiffeisenbank Beuerberg-Eurasburg eG Eurasburg 235.687 156.645 30.732 214.
 - 640 Volksbank Emstek eG Emstek 234.246 130.036 41.779 198.
 - 641 Raiffeisenbank Unteres Vilstal eG, Schmidmühlen Schmidmühlen 233.875 165.198 61.898 168.
@@ -707,8 +678,6 @@
 - 676 Volksbank Pfullendorf eG Pfullendorf 197.674 143.891 53.780 129.
 - 677 VR-Bank Freudenberg-Niederfischbach eG Freudenberg 197.464 151.025 40.376 119.
 - 678 Raiffeisenbank Bühlertal eG, Vellberg Vellberg 197.355 148.582 44.071 124. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 679 Raiffeisenbank Schrobenhausener Land eG Langenmosen 196.896 148.236 54.100 88.
 - 680 Volksbank Heiligenstadt eG Heilbad Heiligenstadt 194.597 162.069 43.690 88.
 - 681 Volksbank Aschaffenburg eG Aschaffenburg 193.927 151.330 36.428 88.
@@ -749,8 +718,6 @@
 - 716 Raiffeisenbank Donau-Heuberg eG, Mühlheim Mühlheim 166.293 114.151 50.938 116.
 - 717 Raiffeisenbank Geislingen-Rosenfeld eG Geislingen 165.950 136.729 41.999 66.
 - 718 Volksbank Winsener Marsch eG Marschacht 165.893 110.486 7.272 133. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 719 Raiffeisenbank Oberteuringen eG Oberteuringen 165.608 125.486 57.823 112.
 - 720 Raiffeisenbank Hollfeld-Waischenfeld-Aufseß eG Hollfeld 165.285 131.145 65.088 64.
 - 721 Raiffeisenbank Hirschau eG Hirschau 165.037 123.365 36.944 80.
@@ -791,8 +758,6 @@
 - 756 Onstmettinger Bank eG, Albstadt Albstadt 143.254 116.060 45.255 66.
 - 757 Volksbank eG, Eppertshausen Eppertshausen 143.249 117.369 45.745 64.
 - 758 Raiffeisenbank Kieselbronn eG Kieselbronn 143.051 115.083 24.088 93. 
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 759 MKB Mittelstandskreditbank Aktiengesellschaft Hamburg 141.488 109.867 24.077 126.
 - 760 Volksbank-Raiffeisenbank Deggingen eG Deggingen 141.080 117.128 56.415 82.
 - 761 Volksbank Kierspe eG Kierspe 140.800 100.813 32.114 83.
@@ -832,8 +797,6 @@
 - 795 Spar-u.Kredit-Bank eG Gemünden 123.335 87.821 32.227 77.
 - 796 Volksbank Hamm/Sieg eG Hamm 120.058 87.699 29.849 88.
 - 797 Volksbank Rot eG, St. Leon-Rot St. Leon-Rot 118.314 98.349 20.556 71.
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 798 Volksbank eG, Gardelegen Gardelegen 118.090 96.666 41.999 64.325
 - 799 Dettinger Bank eG Volks- und Raiffeisenban, Dettingen Dettingen 117.580 94.791 30.959 83.701
 - 800 Raiffeisenbank Bissingen eG Bissingen 117.358 78.585 28.647 88.392
@@ -873,13 +836,7 @@
 - 834 Raiffeisenbank Alteglofsheim-Hagelstadt eG Hagelstadt 93.501 76.300 30.860 50.078
 - 835 Volksbank Amelsbüren eG Münster 93.130 64.617 19.583 71.271
 - 836 Spar- und Kreditbank Bühlertal eG Bühlertal 93.068 71.655 31.924 66.465
-- 837 Volksbank eG, Adelebsen Adelebsen 92.774 72.659 33.389 51.995
-
-* ohne BAG Hamm und TeamBank
-
-
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
+- 837 Volksbank eG, Adelebsen Adelebsen 92.774 72.659 33.389 51.995s
 - 838 Volksbank Überherrn eG Überherrn 89.912 69.075 29.035 63.459
 - 839 Raiffeisenbank Fränkisches Weinland eG Escherndorf-Sommerach-Nordheim Nordheim/Main 88.975 66.566 16.214 48.846
 - 840 Volksbank Haaren eG Waldfeucht 88.088 68.610 28.586 53.572
@@ -920,10 +877,6 @@
 - 875 Raiffeisenbank eG Asbach-Sorga Bad Hersfeld 63.957 48.243 8.339 51.273
 - 876 Raiffeisenkasse Erbes-Büdesheim und Umgebung eG Erbes-Büdesheim 63.622 49.503 15.175 40.642
 - 877 Raiffeisenbank Kirtorf eG Kirtorf 63.157 52.177 23.000 36.957
-
-* ohne BAG Hamm und TeamBank
-
-## Rang Name Ort Bilanzsumme Einlagen Spareinlagen Kundenforderungen
 - 878 Raiffeisenbank Frankenwinheim und Umgebung eG Frankenwinheim 62.998 49.890 10.422 21.629
 - 879 Raiffeisenbank Hofkirchen-Bayerbach eG Hofkirchen 62.127 51.423 17.700 35.371
 - 880 Raiffeisenbank Berghülen eG Berghülen 61.328 47.802 23.593 29.633
@@ -960,6 +913,7 @@
 - 911 Raiffeisenbank Maitis eG, Göppingen Göppingen 23.965 20.408 13.605 15.326
 - 912 Spar- und Darlehnskasse Stockhausen eG Herbstein 21.393 17.657 8.860 6.712
 - 913 Raiffeisenbank eG, Struvenhütten Struvenhütten 18.978 17.333 2.357 8.437
+- Ouelle: Bundesverband der Deutschen Volksbanken und Raiffeisenbanken (BVR)
 
 * ohne BAG Hamm und TeamBank
 
